@@ -22,6 +22,34 @@
   font-size: large;
 }
 
+.logo{
+  width: 200px;
+  margin: auto;
+}
+
+.logo img{
+  width: 100%;
+}
+
+.footer{
+  text-align: center;
+  height: 200px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+}
+
+body{
+  background: #eee;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

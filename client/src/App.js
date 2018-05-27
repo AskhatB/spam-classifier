@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <h1>Spam Classifier</h1>
+      <div className="logo"><img src="/assets/logo.png"/></div>
         <Chat />
       </div>
     );
