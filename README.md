@@ -1,6 +1,6 @@
 # spam-classifier
 ML
-![alt text](https://github.com/AskhatB/spam-classifier/client/public/assets/logo.png "Logo Title Text 1")
+![alt text](https://github.com/AskhatB/spam-classifier/blob/master/client/public/assets/logo.png?raw=true "Logo Title Text 1")
 
 
 ### Done by
